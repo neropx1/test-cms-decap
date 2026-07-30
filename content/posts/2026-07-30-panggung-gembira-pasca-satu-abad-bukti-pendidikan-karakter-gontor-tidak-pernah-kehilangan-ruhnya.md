@@ -2,7 +2,7 @@
 title: "Panggung Gembira Pasca Satu Abad: Bukti Pendidikan Karakter Gontor Tidak
   Pernah Kehilangan Ruhnya"
 cover_image: https://assets.kompasiana.com/items/album/2026/06/01/dokumentasi-panggung-gembira-pondok-modern-darussalam-gontor-ponorogo-1-1-6a1d9ff634777c326b591a52.jpeg?t=o&v=770
-description: “The Absolute Panggung Gembira, Impervious Generation”, Gontor
+description: “The Absolute Panggung Gembira, Impervious Generation” - Gontor
   menegaskan bahwa pembentukan karakter, kreativitas, dan jiwa kepemimpinan
   tetap menjadi ruh utama pendidikan pesantren, bahkan setelah memasuki abad
   kedua perjalanannya.
