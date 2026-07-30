@@ -2,6 +2,7 @@
 title: Bukan Diskusi Biasa! Impervious Generation Bedah Masalah Kontemporer Pakai Kitab Klasik
 slug: fathul-kutub-6
 cover_image: https://gontor.ac.id/wp-content/uploads/2026/07/PMDG0065-1068x712.jpg
+cover_image_caption: Santri Kelas 6 sedang menelaah Buku-buku Warisan para Ulama' terdahulu.
 cover_images:
   - https://picsum.photos/id/702/1920/1280.webp
   - /uploads/ChatGPT Image Jul 27, 2026, 10_06_22 AM.png
