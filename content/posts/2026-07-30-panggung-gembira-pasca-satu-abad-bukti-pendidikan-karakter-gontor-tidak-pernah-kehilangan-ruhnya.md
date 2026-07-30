@@ -1,16 +1,16 @@
 ---
-title: "Panggung Gembira Pasca Satu Abad: Bukti Pendidikan Karakter Gontor Tidak
-  Pernah Kehilangan Ruhnya"
+title: 'Panggung Gembira Pasca Satu Abad: Bukti Pendidikan Karakter Gontor Tidak Pernah Kehilangan Ruhnya'
+slug: ''
 cover_image: https://assets.kompasiana.com/items/album/2026/06/01/dokumentasi-panggung-gembira-pondok-modern-darussalam-gontor-ponorogo-1-1-6a1d9ff634777c326b591a52.jpeg?t=o&v=770
-description: “The Absolute Panggung Gembira, Impervious Generation” - Gontor
-  menegaskan bahwa pembentukan karakter, kreativitas, dan jiwa kepemimpinan
-  tetap menjadi ruh utama pendidikan pesantren, bahkan setelah memasuki abad
-  kedua perjalanannya.
+description: “The Absolute Panggung Gembira, Impervious Generation” - Gontor menegaskan bahwa pembentukan karakter, kreativitas, dan jiwa kepemimpinan tetap menjadi ruh utama pendidikan pesantren, bahkan setelah memasuki abad kedua perjalanannya.
 category: Berita
 author: Tim Redaksi Kompasiana
 author_email: kerjasama@kompasiana.com
 date: 2026-07-30 14:19:00
+meta_title: ''
+meta_description: ''
 ---
+
 Di tengah arus globalisasi yang semakin menggilis karakter generasi muda, Pondok Modern Darussalam Gontor kembali menunjukkan bahwa pendidikan tidak cukup hanya berorientasi pada aktivitas akademik semata. Melalui pagelaran seni akbar Panggung Gembira 2026 bertajuk “The Absolute Panggung Gembira, Impervious Generation”, Gontor menegaskan bahwa pembentukan karakter, kreativitas, dan jiwa kepemimpinan tetap menjadi ruh utama pendidikan pesantren, bahkan setelah memasuki abad kedua perjalanannya.
 
 Panggung Gembira bukan sekadar acara hiburan tahunan yang menampilkan seni dan kreativitas santri. Lebih dari itu, kegiatan ini merupakan representasi nyata sistem pendidikan integral khas Gontor yang memadukan nilai intelektual, spiritual, sosial, dan kepemimpinan dalam satu ruang pembinaan. Di saat banyak lembaga pendidikan mulai kehilangan arah akibat dominasi budaya instan dan hiburan digital, Gontor justru mampu menjadikan seni sebagai media [pendidikan karakter](https://www.kompasiana.com/tag/pendidikan-karakter).
