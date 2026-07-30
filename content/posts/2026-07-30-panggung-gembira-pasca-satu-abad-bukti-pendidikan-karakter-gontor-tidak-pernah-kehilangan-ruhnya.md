@@ -11,6 +11,8 @@ meta_title: ''
 meta_description: ''
 ---
 
+# h1
+
 Di tengah arus globalisasi yang semakin menggilis karakter generasi muda, Pondok Modern Darussalam Gontor kembali menunjukkan bahwa pendidikan tidak cukup hanya berorientasi pada aktivitas akademik semata. Melalui pagelaran seni akbar Panggung Gembira 2026 bertajuk “The Absolute Panggung Gembira, Impervious Generation”, Gontor menegaskan bahwa pembentukan karakter, kreativitas, dan jiwa kepemimpinan tetap menjadi ruh utama pendidikan pesantren, bahkan setelah memasuki abad kedua perjalanannya.
 
 Panggung Gembira bukan sekadar acara hiburan tahunan yang menampilkan seni dan kreativitas santri. Lebih dari itu, kegiatan ini merupakan representasi nyata sistem pendidikan integral khas Gontor yang memadukan nilai intelektual, spiritual, sosial, dan kepemimpinan dalam satu ruang pembinaan. Di saat banyak lembaga pendidikan mulai kehilangan arah akibat dominasi budaya instan dan hiburan digital, Gontor justru mampu menjadikan seni sebagai media [pendidikan karakter](https://www.kompasiana.com/tag/pendidikan-karakter).
