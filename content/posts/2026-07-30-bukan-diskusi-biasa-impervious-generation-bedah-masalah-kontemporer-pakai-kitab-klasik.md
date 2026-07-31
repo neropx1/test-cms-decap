@@ -4,13 +4,15 @@ slug: fathul-kutub-6
 cover_image: https://gontor.ac.id/wp-content/uploads/2026/07/PMDG0065-1068x712.jpg
 cover_image_caption: Santri Kelas 6 sedang menelaah Buku-buku Warisan para Ulama' terdahulu.
 cover_images:
-  - https://picsum.photos/id/702/1920/1280.webp
-  - /uploads/ChatGPT Image Jul 27, 2026, 10_06_22 AM.png
-  - https://res.cloudinary.com/ymxgxfvy/image/upload/v1785374477/cld-sample.jpg
-  - https://res.cloudinary.com/ymxgxfvy/image/upload/v1785374477/cld-sample-3.jpg
+  - image: https://picsum.photos/id/887/1920/1280.webp
+    caption: Gedung pertemuan yang digunakan.
+  - image: https://picsum.photos/id/48/1920/1280.webp
+    caption: Gambaran kafe untuk menunjang acara berlangsung
 description: Fathul Kutub Turats Al-Islamiy bagi Siswa Akhir KMI 2027 Impervious Generation.
 category: Artikel
-author: Haniya, Tim Media PMDG
+author: Haniya
+editor: Tim Media PMDG
+photographer: Tim Fotografi OPPM
 author_email: ''
 date: 2026-07-30 14:11:00
 tags: []
