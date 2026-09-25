@@ -1,5 +1,5 @@
 ---
-title: Pak Alman naik haji
+title: H. Almanfaluthi Umrah menjadi pemandu umrah gontor 2026
 slug: ''
 cover_image: /uploads/dreamina-2026-08-16-1667-Chibi boy character from image 1 with bl...-Photoroom.webp
 cover_image_caption: Kegiatan ekstrakulikuler santri di Pondok Modern Darussalam Gontor
